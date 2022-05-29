@@ -7,6 +7,9 @@ E-mail marketing para convite de ingresso no ByteBank, 100% responsivo, funciona
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
 
+## 🖥 Resultado
+https://email-marketing-bytebank.vercel.app/
+
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/prissycorrea/email-marketing-bytebank).
 
